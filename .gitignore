@@ -1,0 +1,18 @@
+# Ambiente virtual
+.venv/
+
+# Dados brutos (planilhas originais não vão para o GitHub)
+dados/brutos/*
+!dados/brutos/.gitkeep
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Credenciais
+.env
+
+# Sistema
+.DS_Store
+Thumbs.db
