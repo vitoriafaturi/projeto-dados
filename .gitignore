@@ -5,6 +5,10 @@
 dados/brutos/*
 !dados/brutos/.gitkeep
 
+# Dados tratados (gerados pelo código)
+dados/tratados/
+*.parquet
+
 # Python / Jupyter
 __pycache__/
 *.pyc

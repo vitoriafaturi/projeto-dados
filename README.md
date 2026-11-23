@@ -10,6 +10,10 @@ sql/              01_schema.sql, 02_analises.sql
 dashboard/        arquivo .pbix e prints
 ```
 
+## Observações
+
+- Ficam de fora imóveis rurais e transações com ITBI parcelado ou cobrado por auto de infração.
+
 ## Como rodar
 
 ```
